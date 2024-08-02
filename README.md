@@ -5,7 +5,7 @@
 This is my first try on PyTorch(a framework for machine learning).
 Playlist: [freeCodeCamp.org](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa)
 
-### 1 - Tensors, Gradient Descent & Linear Regression (20:00)
+### 1 - Tensors, Gradient Descent & Linear Regression (28:30)
 
 
 ### Softwares and Tools Required
